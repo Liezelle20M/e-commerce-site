@@ -1,4 +1,4 @@
-## Sunglasses eCommerce Website
+# Sunglasses eCommerce Website
  
 Welcome to the Sunglasses eCommerce repository!  This is a web application designed to provide a seamless shopping experience for sunglasses enthusiasts. Built with PHP, HTML, CSS, and JavaScript, this project includes essential eCommerce functionalities and modern integrations to enhance user experience.
 
