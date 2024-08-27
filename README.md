@@ -1,8 +1,8 @@
-##Sunglasses eCommerce Website
+## Sunglasses eCommerce Website
  
 Welcome to the Sunglasses eCommerce repository!  This is a web application designed to provide a seamless shopping experience for sunglasses enthusiasts. Built with PHP, HTML, CSS, and JavaScript, this project includes essential eCommerce functionalities and modern integrations to enhance user experience.
 
-#Features
+# Features
 - Product Catalog: Browse through a wide range of stylish sunglasses with detailed descriptions and high-quality images.
 - Shopping Cart: Add items to your cart, review them, and proceed to checkout.
 - User Account Management:
@@ -14,24 +14,22 @@ Welcome to the Sunglasses eCommerce repository!  This is a web application desig
 - Responsive Design: Enjoy a smooth shopping experience on both desktop and mobile devices.
 
 
-#Setup Environment:
+# Setup Environment:
 
 Ensure you have PHP installed on your machine.
 Configure your database settings in the database.php file.
 
-#Install Dependencies:
+# Install Dependencies:
 
 Run composer install to install PHP dependencies.
 For EmailJS, make sure to set up your EmailJS service and configure it in the emailjs-config.js file.
 
-#Run the Project:
+# Run the Project:
 
 Start your local server (e.g., XAMPP, WAMP, MAMP) and point it to the project directory.
 Access the site via http://localhost/ecommerce in your browser.
 
-
-
-##Live Demo
+<h1>Live Demo</h1>
 Check out the live version of the website here: https://mazazaeyewear.000webhostapp.com
 
 
