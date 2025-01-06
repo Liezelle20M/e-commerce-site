@@ -30,6 +30,6 @@ Start your local server (e.g., XAMPP, WAMP, MAMP) and point it to the project di
 Access the site via http://localhost/ecommerce in your browser.
 
 <h1>Live Demo</h1>
-Check out the live version of the website here: mazazaeyewear.serv00.in
+Check out the live version of the website here: https://mazazaeyewear.serv00.in/
 
 
